@@ -24,7 +24,7 @@ Obie wersje programu wykonują identyczne zadanie: analizują liczby z zakresu p
 ## 3. Struktura projektu
 
 ```
-/NumberPropertiesComparer
+/NumberProperties
 │
 ├── /Structural
 │   ├── Program.cs
